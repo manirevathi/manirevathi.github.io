@@ -331,7 +331,7 @@ if (content.locals) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 6:
 /*!*******************************!*\
   !*** multi ./src/styles.scss ***!
   \*******************************/
@@ -343,4 +343,4 @@ module.exports = __webpack_require__(/*! D:\xampp\htdocs\manikandan\sample\src\s
 
 /***/ })
 
-},[[3,"runtime"]]]);
+},[[6,"runtime"]]]);
