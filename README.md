@@ -1,1 +1,0 @@
-# manirevathi.github.io
